@@ -8,20 +8,18 @@ A Caliper Educational Project contributed by **Critical Software** and **Vector 
 
 | # | Module | Duration | Audience | Phase | Markdown | Status |
 |:-:|---|:-:|---|---|---|---|
-| M1 | Intro to SDPi | 15 min | Broad, incl. non-developers | Getting Started | `module-1-intro-to-sdpi.md` | 🟡 Draft — ready for review |
-| M2a | SDPi Connectivity Fundamentals | 10 min | Newcomers & developers | Getting Started | `module-2a-connectivity-fundamentals.md` | 🟠 Draft — technical validation pending |
-| M2b | The Big 4 Functions & System Functions | 8 min | Newcomers | Getting Started | `module-2b-big-4-and-system-functions.md` | 🟠 Draft — technical validation pending |
-| M3 | SDPi in the Clinical Interoperability Landscape | 10 min | Product, architecture, strategy | Getting Started | `module-3-interoperability-landscape.md` | 🟡 Draft — ready for review |
-| M4 | But Where Do I Start? | 15 min | Teams beginning an SDPi initiative | Getting Started | `module-4-where-to-start.md` | 🟡 Draft — ready for review |
-| M5 | Intro to Gazelle and Caliper Testing | 10 min | Developers, testers, tech leads | Implementation Readiness | `module-5-gazelle-caliper-testing.md` | 🟠 Draft — technical validation pending |
-| M6 | Regulatory Overview | 10 min | Regulatory, quality, product | Deployment Readiness | `module-6-regulatory-overview.md` | 🟡 Draft — ready for review |
+| M1 | Intro to SDPi | 15 min | Broad, incl. non-developers | Getting Started | [module-1-intro-to-sdpi.md](module-1-intro-to-sdpi.md) | 🟡 Draft — ready for review |
+| M2a | SDPi Connectivity Fundamentals | 10 min | Newcomers & developers | Getting Started | [module-2a-connectivity-fundamentals.md](module-2a-connectivity-fundamentals.md) | 🟠 Draft — technical validation pending |
+| M2b | The Big 4 Functions & System Functions | 8 min | Newcomers | Getting Started | [module-2b-big-4-and-system-functions.md](module-2b-big-4-and-system-functions.md) | 🟠 Draft — technical validation pending |
+| M3 | SDPi in the Clinical Interoperability Landscape | 10 min | Product, architecture, strategy | Getting Started | [module-3-interoperability-landscape.md](module-3-interoperability-landscape.md) | 🟡 Draft — ready for review |
+| M4 | But Where Do I Start? | 15 min | Teams beginning an SDPi initiative | Getting Started | [module-4-where-to-start.md](module-4-where-to-start.md) | 🟡 Draft — ready for review |
+| M5 | Intro to Gazelle and Caliper Testing | 10 min | Developers, testers, tech leads | Implementation Readiness | [module-5-gazelle-caliper-testing.md](module-5-gazelle-caliper-testing.md) | 🟠 Draft — technical validation pending |
+| M6 | Regulatory Overview | 10 min | Regulatory, quality, product | Deployment Readiness | [module-6-regulatory-overview.md](module-6-regulatory-overview.md) | 🟡 Draft — ready for review |
 | M7 | Cybersecurity and Plug-and-Trust | 10 min | Security, system, software | Deployment Readiness | — | ⚪ Planned |
 | M8 | Alerting 101 | 10 min | Clinical, systems, safety | Deployment Readiness | — | ⚪ Planned |
 | M9 | Implementation Pathways and Ecosystem Resources | 15 min | Teams executing an SDPi project | Implementation Readiness | — | ⚪ Planned |
 
 **Status legend:** 🟢 Published · 🟡 Draft — ready for review · 🟠 Draft — technical validation pending · ⚪ Planned
-
-> Markdown files are being added; links will be activated as each module is published.
 
 ## Learning path
 
