@@ -7,6 +7,11 @@ All notable changes to this repository are documented here, following [Keep a Ch
 ### Added
 - Repository README with Caliper description and structure (#1).
 - This changelog.
+- SDPi Microlearning course README with module list, status and links to the Word files.
+- "How to make changes" instructions and detailed course status in the root README.
 
 ### Changed
 - SDPi Microlearning Word files moved to `training/sdpi-microlearning/docx/` (generated from the Markdown modules).
+
+### Removed
+- `training/readme.md` — replaced by the course README.
